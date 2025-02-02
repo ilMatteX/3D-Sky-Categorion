@@ -37,7 +37,7 @@ This program **requires ChromeDriver** to function properly.
 
 At the bottom of the program, you'll find an option labeled **"Change Polygon Expert ID"**.  
 
-This setting is **crucial** because the **Polygon Expert ID changes periodically, like once a month**. The program needs to be updated with the correct ID when starting.  
+This setting is **crucial** because the **Polygon Expert ID changes periodically, about once a month**. The program needs to be updated with the correct ID when starting.  
 
 ### How to Find the Polygon Expert ID:  
 1. Go to [https://3dsky.org](https://3dsky.org).  
