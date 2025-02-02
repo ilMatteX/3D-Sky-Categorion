@@ -3,7 +3,7 @@
 ## Introduction  
 Thank you for downloading **3D Sky Categorion**!  
 
-This application is designed to **automatically organize your files** (e.g., `5887.526861f4db7fc.jpeg`, `5887.526861f4db7fc.rar`...) into the appropriate **categories**, following the structure found on [3dsky.org](https://3dsky.org).  
+This application is designed to **automatically organize your files** (e.g., `5887.526861f4db7fc.jpeg`, `5887.526861f4db7fc.rar`...) into the appropriate **categories**, following the structure found on (https://3dsky.org).  
 
 ## Setup Instructions  
 
@@ -24,7 +24,7 @@ Choose a separate folder where you store **unorganized files** (e.g., `C:\3dsky\
 This program **requires ChromeDriver** to function properly.  
 
 1. Download ChromeDriver from:  
-   [https://googlechromelabs.github.io/chrome-for-testing/#stable](https://googlechromelabs.github.io/chrome-for-testing/#stable)  
+   (https://googlechromelabs.github.io/chrome-for-testing/#stable)  
 2. **Use the Stable version**, then extract the ZIP file.  
 3. Set the **full path** to `chromedriver.exe` inside the program.  
    - Example: `C:\chromedriver-win64\chromedriver.exe`  
@@ -37,7 +37,7 @@ This program **requires ChromeDriver** to function properly.
 
 At the bottom of the program, you'll find an option labeled **"Change Polygon Expert ID"**.  
 
-This setting is **crucial** because the **Polygon Expert ID changes periodically**. The program needs to be updated with the correct ID when starting.  
+This setting is **crucial** because the **Polygon Expert ID changes periodically, like once a month**. The program needs to be updated with the correct ID when starting.  
 
 ### How to Find the Polygon Expert ID:  
 1. Go to [https://3dsky.org](https://3dsky.org).  
